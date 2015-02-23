@@ -1,6 +1,6 @@
 ## 1 Why learn Swift?
 
-Igor Lebovic talks in more depth on how [Swift is a twice in a decade opportunity](http://www.airpair.com/swift/posts/swift-is-a-twice-in-a-decade-opportunity-for-developers). Demand is rising quickly, so getting in early will ensure high paid work.
+Demand is rising quickly, so getting in early will ensure high paid work.
 
 ### 1.1 How to learn Swift
 
